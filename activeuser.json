@@ -54,5 +54,12 @@
         "password": "password",
         "expirydate": "31-12-2026",
         "Allowoffline": true
-    }
+    },
+      {
+        "device_id": "583a5c9f3d422769",
+        "username": "Dinakaran",
+        "password": "password",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
